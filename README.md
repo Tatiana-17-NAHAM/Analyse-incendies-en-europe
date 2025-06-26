@@ -1,3 +1,5 @@
+![Statut](https://img.shields.io/badge/🔥_Projet-Actif-EA4C4C.svg)
+
 # Analyse-incendies en Europe
 Analyse des données d'incendies en Europe (2006-2025) avec Python — Visualisation, modélisation et interprétation.
 
