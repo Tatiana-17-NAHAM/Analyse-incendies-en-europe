@@ -8,7 +8,7 @@
 - [📊 Principales visualisations](#-principales-visualisations)
 - [📈 Résultats clés](#-résultats-clés)
 - [👩‍💻 Réalisé par](Tatiana SANGUEAL NAHAM)
-- 🔗 [Mon profil LinkedIn]([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
+- 🔗 ([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
 
 
 # Analyse-incendies en Europe
