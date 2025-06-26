@@ -34,6 +34,9 @@ Il utilise des données réelles et propose des visualisations interactives pour
 - `Python`
 - `Pandas`, `Matplotlib`, `Seaborn`
 - Optionnel : `Scikit-learn` pour régression simple
+- 📘 [Voir le notebook Jupyter](📘 [Voir le notebook Jupyter](./Analyse incendies en europe (2006-2025).ipynb)
+
+
 
  # 📊 Principales visualisations
 
