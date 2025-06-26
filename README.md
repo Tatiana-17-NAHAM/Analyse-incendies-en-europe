@@ -1,4 +1,4 @@
-# Analyse-incendies eneurope
+# Analyse-incendies en Europe
 Analyse des données d'incendies en Europe (2006-2025) avec Python — Visualisation, modélisation et interprétation.
 
 Ce projet explore les incendies forestiers en Europe entre 2006 et 2025, en mettant en lumière l'évolution de la surface brûlée, le nombre d'incendies et leur corrélation.  
@@ -15,3 +15,16 @@ Il utilise des données réelles et propose des visualisations interactives pour
 - Analyser les ratios récents (2021–2025) d'incendies par surface
 - Interpréter les anomalies : baisse en 2022, hausse en 2024/2025
 - Identifier les liens entre fréquence et intensité des feux
+  
+# 🛠️ Technologies utilisées
+
+- `Python`
+- `Pandas`, `Matplotlib`, `Seaborn`
+- Optionnel : `Scikit-learn` pour régression simple
+
+ # 📊 Principales visualisations
+
+- **Courbe de la surface brûlée par an**  
+- **Barplot du nombre d’incendies**
+- **Corrélation entre feux et hectares brûlés**
+- **Indicateur d’intensité : Feux pour 1 000 ha**
