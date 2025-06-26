@@ -1,5 +1,14 @@
 ![Statut](https://img.shields.io/badge/🔥_Projet-Actif-EA4C4C.svg)
-![Statut](https://img.shields.io/badge/🔥_Projet-Actif-EA4C4C.svg)
+
+# 🗺️ Sommaire
+
+- [📁 Données utilisées](#-données-utilisées)
+- [🎯 Objectifs](#-objectifs)
+- [🛠️ Technologies utilisées](#-technologies-utilisées)
+- [📊 Principales visualisations](#-principales-visualisations)
+- [📈 Résultats clés](#-résultats-clés)
+- [🚀 Prochaines étapes](#-prochaines-étapes)
+- [👩‍💻 Réalisé par](Tatiana SANGUEAL NAHAM)
 
 
 # Analyse-incendies en Europe
