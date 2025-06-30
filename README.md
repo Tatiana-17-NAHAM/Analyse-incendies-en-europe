@@ -48,7 +48,7 @@ Il utilise des données réelles et propose des visualisations interactives pour
  #🔥 Surface totale brûlée en Europe (2006–2025)
 Cette visualisation montre l’évolution annuelle des surfaces brûlées sur le continent, avec un pic remarquable en 2022, une accalmie en 2024 et une reprise en 2025.
 
-![Surface brûlée](Surface totale brûlée en Europe ( 2006-2025).png)
+![Surface brûlée](surface_brulee_europe_2006_2025.png)
 
 
 
