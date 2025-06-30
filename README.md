@@ -46,12 +46,12 @@ Il utilise des données réelles et propose des visualisations interactives pour
 - **Corrélation entre feux et hectares brûlés**
 - **Indicateur d’intensité : Feux pour 1 000 ha
 
- #🔥 Surface totale brûlée en Europe (2006–2025)
+ # 🔥 Surface totale brûlée en Europe (2006–2025)
 Cette visualisation montre l’évolution annuelle des surfaces brûlées sur le continent, avec un pic remarquable en 2022, une accalmie en 2024 et une reprise en 2025.
 
 ![Surface brûlée](surface_brulee_europe_2006_2025.png)
 
-#🔄 Corrélation entre le nombre d’incendies et la surface brûlée (2006–2025)
+# 🔄 Corrélation entre le nombre d’incendies et la surface brûlée (2006–2025)
 Ce graphique bivarié montre une tendance conjointe à la hausse du nombre d'incendies et de la surface brûlée depuis 2017, avec un pic marqué en 2022 et une reprise en 2025.
 
 ![Surface vs incendies](surface_vs_incendies_2006_2025.png)
@@ -61,12 +61,12 @@ Ce barplot met en évidence une augmentation nette du nombre d’incendies à pa
 
 ![Nombre d’incendies](nb_incendies_europe_2006_2025.png)
 
-#⚖️ Nombre d’incendies pour 1 000 hectares brûlés (2006–2025)
+# ⚖️ Nombre d’incendies pour 1 000 hectares brûlés (2006–2025)
 Cet indicateur met en lumière l’intensité moyenne des feux : des valeurs élevées indiquent de nombreux incendies de petite taille, tandis que des valeurs basses traduisent peu de feux mais très étendus. On observe une grande variabilité, avec un creux notable en 2022 (feux rares mais destructeurs) et des pics en 2013, 2018 et 2024.
 
 ![Ratio feux pour 1000ha brûlés](nb_feux_par_1000ha_2006_2025.png)
 
-#🔗 Corrélation entre nombre d’incendies et surface brûlée (2006–2025)
+# 🔗 Corrélation entre nombre d’incendies et surface brûlée (2006–2025)
 Ce graphique illustre la relation entre la fréquence des incendies et leur impact total. Une hausse du nombre de feux tend à s’accompagner d’une surface brûlée plus importante. Néanmoins, cette corrélation n’est pas systématique : certaines années, peu d’incendies peuvent causer des dégâts très étendus (comme en 2022), tandis que d’autres années à forte fréquence présentent un impact plus modéré.
 
 ![Corrélation incendies / surface](correlation_incendies_surface_2006_2025.png)
