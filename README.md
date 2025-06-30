@@ -76,9 +76,6 @@ Ce graphique présente les valeurs observées de la surface brûlée par an, acc
 
 ![Évolution surface brûlée](evolution_surface_brulee_2006_2025.png)
 
-
-
-
 # 🚀 Résultats clés
 
 - 📉 **2022** : Faible nombre d’incendies mais grande surface brûlée  
@@ -98,5 +95,11 @@ Ce graphique présente les valeurs observées de la surface brûlée par an, acc
   - **🔥 Prédiction surface brûlée en 2025 : 30 158 hectares*
 
 # 🧾 Conclusion
-
 L'étude des feux en Europe de 2006 à 2025 indique une tendance alarmante, caractérisée par :
+ une hausse progressive de la surface brûlée,
+- une fréquence des incendies en augmentation depuis 2017,
+- une intensité variable d’année en année,
+- et une corrélation modérée entre nombre de feux et surface détruite.
+
+Les prévisions basées sur la régression linéaire indiquent une continuité de cette tendance, soulignant les problématiques environnementales et l'exigence de politiques d'adaptation plus solides.
+
