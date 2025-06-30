@@ -71,6 +71,12 @@ Ce graphique illustre la relation entre la fréquence des incendies et leur impa
 
 ![Corrélation incendies / surface](correlation_incendies_surface_2006_2025.png)
 
+# 📈 Évolution de la surface brûlée en Europe (2006–2025)
+Ce graphique présente les valeurs observées de la surface brûlée par an, accompagnées d'une droite de régression linéaire. Il met en évidence une tendance croissante inquiétante, suggérant que les incendies pourraient devenir un phénomène durablement installé sur le continent.
+
+![Évolution surface brûlée](evolution_surface_brulee_2006_2025.png)
+
+
 
 
 
