@@ -66,6 +66,7 @@ Ce barplot met en évidence une augmentation nette du nombre d’incendies à pa
 
 
 
+
 # 🚀 Résultats clés
 
 - 📉 **2022** : Faible nombre d’incendies mais grande surface brûlée  
