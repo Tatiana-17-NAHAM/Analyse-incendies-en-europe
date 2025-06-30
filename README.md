@@ -51,6 +51,12 @@ Cette visualisation montre l’évolution annuelle des surfaces brûlées sur le
 
 ![Surface brûlée](surface_brulee_europe_2006_2025.png)
 
+#🔄 Corrélation entre le nombre d’incendies et la surface brûlée (2006–2025)
+Ce graphique bivarié montre une tendance conjointe à la hausse du nombre d'incendies et de la surface brûlée depuis 2017, avec un pic marqué en 2022 et une reprise en 2025.
+
+![Incendies vs surface brûlée](brulee_incendies_2006_2025.png)
+
+
 
 
 # 🚀 Résultats clés
