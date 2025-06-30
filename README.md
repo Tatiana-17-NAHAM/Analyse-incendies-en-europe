@@ -61,6 +61,12 @@ Ce barplot met en évidence une augmentation nette du nombre d’incendies à pa
 
 ![Nombre d’incendies](nb_incendies_europe_2006_2025.png)
 
+#⚖️ Nombre d’incendies pour 1 000 hectares brûlés (2006–2025)
+Cet indicateur met en lumière l’intensité moyenne des feux : des valeurs élevées indiquent de nombreux incendies de petite taille, tandis que des valeurs basses traduisent peu de feux mais très étendus. On observe une grande variabilité, avec un creux notable en 2022 (feux rares mais destructeurs) et des pics en 2013, 2018 et 2024.
+
+![Ratio feux pour 1000ha brûlés](nb_feux_par_1000ha_2006_2025.png)
+
+
 
 
 
