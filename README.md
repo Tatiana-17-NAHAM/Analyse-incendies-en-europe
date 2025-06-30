@@ -121,3 +121,8 @@ Cette étude souligne une mutation significative du panorama des incendies en Eu
  L'examen conjoint de la fréquence, de l'étendue des incendies et des indices d'intensité met en évidence une tendance structurelle ascendante, soutenue par les prévisions linéaires.  Ces résultats devraient inciter à intensifier les politiques préventives, à ajuster les tactiques de combat contre les incendies et à prendre en compte plus largement le défi climatique dans la gestion des forêts en Europe.
 
 
+
+🧑‍💻 *Projet réalisé par Tatiana SANGUEAL NAHAM*  
+🔗 [LinkedIn]([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
+
+
