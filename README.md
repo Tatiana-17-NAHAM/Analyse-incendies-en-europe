@@ -45,7 +45,7 @@ Il utilise des données réelles et propose des visualisations interactives pour
 - **Courbe de la surface brûlée par an**  
 - **Barplot du nombre d’incendies**
 - **Corrélation entre feux et hectares brûlés**
-- **Indicateur d’intensité : Feux pour 1 000 ha
+- **Indicateur d’intensité : Feux pour 1 000 ha**
 
  # 🔥 Surface totale brûlée en Europe (2006–2025)
 Cette visualisation montre l’évolution annuelle des surfaces brûlées sur le continent, avec un pic remarquable en 2022, une accalmie en 2024 et une reprise en 2025.
@@ -95,14 +95,6 @@ Ce graphique présente les valeurs observées de la surface brûlée par an, acc
   - Mise en évidence d’une tendance linéaire dans l’évolution des surfaces brûlées
   - **🔥 Prédiction surface brûlée en 2025 : 30 158 hectares*
 
-# 🧾 Conclusion
-L'étude des feux en Europe de 2006 à 2025 indique une tendance alarmante, caractérisée par :
- une hausse progressive de la surface brûlée,
-- une fréquence des incendies en augmentation depuis 2017,
-- une intensité variable d’année en année,
-- et une corrélation modérée entre nombre de feux et surface détruite.
-
-Les prévisions basées sur la régression linéaire indiquent une continuité de cette tendance, soulignant les problématiques environnementales et l'exigence de politiques d'adaptation plus solides.
 
 # 🎨 Galerie des visualisations
 
@@ -113,4 +105,19 @@ Les prévisions basées sur la régression linéaire indiquent une continuité d
 | ![Ratio Feux/ha](nb_feux_par_1000ha_2006_2025.png) | ![Corrélation globale](correlation_incendies_surface_2006_2025.png) | ![Régression](evolution_surface_brulee_2006_2025.png) |
 |:--:|:--:|:--:|
 | Feux / 1000 ha | Nb feux vs surface totale | Tendance linéaire (2006–2025) |
+
+# 🧠 À retenir
+
+- La surface brûlée augmente de manière préoccupante entre 2006 et 2025, avec un pic alarmant en 2022.
+- Depuis 2017, les incendies sont non seulement plus fréquents, mais parfois plus destructeurs.
+- Le ratio feux / 1 000 ha révèle une intensité très variable d’année en année.
+- La corrélation entre nombre de feux et surface brûlée est réelle, mais loin d’être systématique.
+- La tendance linéaire projetée laisse entrevoir une aggravation si aucune mesure n’est prise.
+
+
+# 🧾 Conclusion
+Cette étude souligne une mutation significative du panorama des incendies en Europe pour la période 2006-2025.  Les feux de forêt s'accroissent en nombre, en intensité et en superficie, soulevant d'importants défis tant environnementaux que politiques.
+
+ L'examen conjoint de la fréquence, de l'étendue des incendies et des indices d'intensité met en évidence une tendance structurelle ascendante, soutenue par les prévisions linéaires.  Ces résultats devraient inciter à intensifier les politiques préventives, à ajuster les tactiques de combat contre les incendies et à prendre en compte plus largement le défi climatique dans la gestion des forêts en Europe.
+
 
