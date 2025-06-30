@@ -56,6 +56,12 @@ Ce graphique bivarié montre une tendance conjointe à la hausse du nombre d'inc
 
 ![Surface vs incendies](surface_vs_incendies_2006_2025.png)
 
+# 📊 Nombre d’incendies de forêt par an en Europe (2006–2025)
+Ce barplot met en évidence une augmentation nette du nombre d’incendies à partir de 2017, avec un pic remarquable en 2018–2019. Cette tendance persistante reflète une pression croissante sur les écosystèmes forestiers européens.
+
+![Nombre d’incendies](nb_incendies_europe_2006_2025.png)
+
+
 
 
 
