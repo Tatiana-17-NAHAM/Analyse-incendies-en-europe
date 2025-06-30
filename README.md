@@ -39,6 +39,7 @@ Il utilise des données réelles et propose des visualisations interactives pour
 
 
 
+
  # 📊 Principales visualisations
 
 - **Courbe de la surface brûlée par an**  
