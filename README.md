@@ -69,7 +69,8 @@ Cet indicateur met en lumière l’intensité moyenne des feux : des valeurs él
 #🔗 Corrélation entre nombre d’incendies et surface brûlée (2006–2025)
 Ce graphique illustre la relation entre la fréquence des incendies et leur impact total. Une hausse du nombre de feux tend à s’accompagner d’une surface brûlée plus importante. Néanmoins, cette corrélation n’est pas systématique : certaines années, peu d’incendies peuvent causer des dégâts très étendus (comme en 2022), tandis que d’autres années à forte fréquence présentent un impact plus modéré.
 
-![Corrélation incendies / surface](Correlation_incendies_surface_2006_2025.png)
+![Corrélation incendies / surface](correlation_incendies_surface_2006_2025.png)
+
 
 
 
