@@ -103,3 +103,13 @@ L'étude des feux en Europe de 2006 à 2025 indique une tendance alarmante, cara
 
 Les prévisions basées sur la régression linéaire indiquent une continuité de cette tendance, soulignant les problématiques environnementales et l'exigence de politiques d'adaptation plus solides.
 
+# 🎨 Galerie des visualisations
+
+| ![Surface brûlée](surface_brulee_europe_2006_2025.png) | ![Feux vs surface](surface_vs_incendies_2006_2025.png) | ![Nb incendies](nb_incendies_europe_2006_2025.png) |
+|:--:|:--:|:--:|
+| Surface brûlée | Corrélation temporelle | Fréquence annuelle |
+
+| ![Ratio Feux/ha](nb_feux_par_1000ha_2006_2025.png) | ![Corrélation globale](correlation_incendies_surface_2006_2025.png) | ![Régression](evolution_surface_brulee_2006_2025.png) |
+|:--:|:--:|:--:|
+| Feux / 1000 ha | Nb feux vs surface totale | Tendance linéaire (2006–2025) |
+
