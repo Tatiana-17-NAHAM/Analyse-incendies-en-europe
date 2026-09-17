@@ -45,7 +45,8 @@ Il utilise des données réelles et propose des visualisations interactives pour
  # 📊 Principales visualisations
 
  # 🔥 Surface totale brûlée en Europe (2006–2025)
-![Surface brûlée](surface_brulee_europe_2006_2025.png
+
+![Surface brûlée](surface_brulee_europe_2006_2025.png)
 
 *Tendance de la surface brûlée par an, avec la droite de régression linéaire : hausse globale sur la période, malgré une forte variabilité d'une année à l'autre.*
 
