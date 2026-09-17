@@ -35,7 +35,7 @@ Il utilise des données réelles et propose des visualisations interactives pour
 
 - `Python`
 -  Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
-- [📘 Voir le notebook Jupyter](./Analyse%20incendies%20en%20europe%20%282006-2025%29.ipynb)
+- [📘 Voir le notebook Jupyter](./Analyse%20incendies%20en%20europe%20%282006-2025%(2).ipynb)
 
 
 
