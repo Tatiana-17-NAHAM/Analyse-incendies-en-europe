@@ -86,7 +86,7 @@ La hausse de la surface brûlée ne s'explique pas uniquement par un nombre croi
 
 Cette analyse met en évidence une tendance haussière et une forte variabilité interannuelle des incendies en France sur la période 2006–2025. Des travaux complémentaires croisant ces données avec des indicateurs climatiques permettraient de mieux isoler l'effet du changement climatique de la variabilité naturelle.
 
-📓 [Voir le notebook complet](<Analyse incendies en europe (2006-2025).ipynb>)
+📓 [Voir le notebook complet](./Analyse%20incendies%20en%20europe%20%282006-2025%29%20%282%29.ipynb)
 
 
 🧑‍💻 *Projet réalisé par Tatiana SANGUEAL NAHAM*  
