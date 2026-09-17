@@ -8,6 +8,7 @@
 - [🛠️ Technologies utilisées](#-technologies-utilisées)
 - [📊 Principales visualisations](#-principales-visualisations)
 - [📈 Résultats clés](#-résultats-clés)
+- [🧾 Conclusion](#-conclusion)
 - [👩‍💻 Réalisé par](Tatiana SANGUEAL NAHAM)
 - 🔗 ([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
 
@@ -24,17 +25,16 @@ Il utilise des données réelles et propose des visualisations interactives pour
 - Colonnes : `Year`, `BurnedArea` (en hectares), `"NumberOfFires` (nombre d'incendies)
 # 🎯 Objectifs
 
-- Étudier l’évolution des incendies en Europe entre 2006 et 2025
-- Visualiser la surface totale brûlée et le nombre d’incendies
-- Analyser les ratios récents (2021–2025) d'incendies par surface
-- Interpréter les anomalies : baisse en 2022, hausse en 2024/2025
-- Identifier les liens entre fréquence et intensité des feux
+- Nettoyer et structurer les données brutes
+- Visualiser l'évolution de la surface brûlée et du nombre d'incendies
+- Mesurer la corrélation entre nombre d'incendies et surface brûlée
+- Modéliser la tendance par régression linéaire
+- Interpréter les résultats et identifier des pistes d'approfondissement
   
 # 🛠️ Technologies utilisées
 
 - `Python`
-- `Pandas`, `Matplotlib`, `Seaborn`
-- Optionnel : `Scikit-learn` pour régression simple
+-  Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
 - [📘 Voir le notebook Jupyter](./Analyse%20incendies%20en%20europe%20%282006-2025%29.ipynb)
 
 
