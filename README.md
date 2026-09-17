@@ -44,15 +44,10 @@ Il utilise des données réelles et propose des visualisations interactives pour
 
  # 📊 Principales visualisations
 
-- **Courbe de la surface brûlée par an**  
-- **Barplot du nombre d’incendies**
-- **Corrélation entre feux et hectares brûlés**
-- **Indicateur d’intensité : Feux pour 1 000 ha**
-
  # 🔥 Surface totale brûlée en Europe (2006–2025)
-Cette visualisation montre l’évolution annuelle des surfaces brûlées sur le continent, avec un pic remarquable en 2022, une accalmie en 2024 et une reprise en 2025.
-
 ![Surface brûlée](surface_brulee_europe_2006_2025.png)
+
+*Tendance de la surface brûlée par an, avec la droite de régression linéaire : hausse globale sur la période, malgré une forte variabilité d'une année à l'autre.*
 
 # 🔄 Corrélation entre le nombre d’incendies et la surface brûlée (2006–2025)
 Ce graphique bivarié montre une tendance conjointe à la hausse du nombre d'incendies et de la surface brûlée depuis 2017, avec un pic marqué en 2022 et une reprise en 2025.
